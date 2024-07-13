@@ -1,0 +1,12 @@
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/bin/Debug/net8.0/ProxyPayApiClient.Library.deps.json
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/bin/Debug/net8.0/ProxyPayApiClient.Library.dll
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/bin/Debug/net8.0/ProxyPayApiClient.Library.pdb
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/ProxyPayApiClient.Library.csproj.AssemblyReference.cache
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/ProxyPayApiClient.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/ProxyPayApiClient.Library.AssemblyInfoInputs.cache
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/ProxyPayApiClient.Library.AssemblyInfo.cs
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/ProxyPayApiClient.Library.csproj.CoreCompileInputs.cache
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/ProxyPayApiClient.Library.dll
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/refint/ProxyPayApiClient.Library.dll
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/ProxyPayApiClient.Library.pdb
+/Users/jaimemagico/Desktop/ProxyPayApiClient.Library/obj/Debug/net8.0/ref/ProxyPayApiClient.Library.dll
